@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1567463396 source:c:\users\alumno\documents\codeblocks\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567464703 source:c:\users\alumno\desktop\-tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+	"Calculadora.c"
+
+1567464544 c:\users\alumno\desktop\-tp_laboratorio_1\calculadora.h
+
+1567466014 c:\users\alumno\desktop\-tp_laboratorio_1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
